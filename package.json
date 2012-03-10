@@ -1,0 +1,16 @@
+{
+  "author": "Lloyd Hilaiel <lloyd@hilaiel.com> (http://lloyd.io)",
+  "name": "leery",
+  "description": "Be leery of npm, checksum the stuff you use.",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lloyd/leery.git"
+  },
+  "bin": {
+    "leery": "bin/leery.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": { }
+}
